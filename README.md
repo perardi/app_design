@@ -1,6 +1,6 @@
 # App Design Resources and Links
 
-Testings badges.
+Testing badges.
 
 <img src="badge_small.svg">
 
