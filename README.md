@@ -2,8 +2,5 @@
 
 Testing badges.
 
-<img src="badge_small.svg">
+<img width="144" height="20" src="badge_small.png">
 
-<img src="badge_small_light.svg">
-
-<img width="184" height="30" src="badge_large.png">
